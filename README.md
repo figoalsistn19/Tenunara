@@ -1,2 +1,2 @@
-# Tenunara
+# Tenunara App
 Bangkit Capstone
